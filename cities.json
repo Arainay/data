@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Moscow",
+    "path": "moscow-weather.json"
+  },
+  {
+    "id": 2,
+    "name": "Saint Petersburg",
+    "path": "sp-weather.json"
+  }
+]
